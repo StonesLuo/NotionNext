@@ -218,6 +218,20 @@ const BLOG = {
             'http://p2.music.126.net/6WUfbJUhabTFFcQ112hbgQ==/109951168476506301.jpg'
     },
     {
+      name: 'Call of Silence',
+      artist: 'Clear Sky',
+      url: 'https://music.163.com/song/media/outer/url?id=1980337835.mp3',
+      cover:
+            'http://p2.music.126.net/oILl4K926GgYiu3il93AlQ==/109951167864630756.jpg'
+    },
+    {
+      name: 'Take Me Hand',
+      artist: 'Cécile Corbel',
+      url: 'https://music.163.com/song/media/outer/url?id=99135673.mp3',
+      cover:
+            'http://p2.music.126.net/oeR1pZWYqYaEDEnTxKm4ZA==/109951168828124314.jpg'
+    },
+    {
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
       url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
