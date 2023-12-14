@@ -232,6 +232,13 @@ const BLOG = {
             'http://p2.music.126.net/oeR1pZWYqYaEDEnTxKm4ZA==/109951168828124314.jpg'
     },
     {
+      name: 'Way Back Home',
+      artist: 'SHAUN',
+      url: 'https://music.163.com/song/media/outer/url?id=863046037.mp3',
+      cover:
+            'http://p1.music.126.net/H6LhX24ts3Va26ojXGQ-jQ==/109951163827768430.jpg'
+    },
+    {
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
       url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
