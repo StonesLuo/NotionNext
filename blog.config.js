@@ -179,7 +179,7 @@ const BLOG = {
   // 动态彩带特效
   FLUTTERINGRIBBON: process.env.NEXT_PUBLIC_FLUTTERINGRIBBON || true, // 开关
   // 静态彩带特效
-  RIBBON: process.env.NEXT_PUBLIC_RIBBON || false, // 开关
+  RIBBON: process.env.NEXT_PUBLIC_RIBBON || true, // 开关
   // 星空雨特效 黑夜模式才会生效
   STARRY_SKY: process.env.NEXT_PUBLIC_STARRY_SKY || true, // 开关
 
@@ -207,7 +207,7 @@ const BLOG = {
   MUSIC_PLAYER_CDN_URL:
         process.env.NEXT_PUBLIC_MUSIC_PLAYER_CDN_URL ||
         'https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js',
-  MUSIC_PLAYER_ORDER: process.env.NEXT_PUBLIC_MUSIC_PLAYER_ORDER || 'list', // 默认播放方式，顺序 list，随机 random
+  MUSIC_PLAYER_ORDER: process.env.NEXT_PUBLIC_MUSIC_PLAYER_ORDER || 'random', // 默认播放方式，顺序 list，随机 random
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
